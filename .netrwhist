@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/private/etc/apache2'
+let g:netrw_dirhist_2='/Users/kaiquesilva/Projects/scraps/ec952b4c6ba1bf8051ac'
+let g:netrw_dirhist_3='/Users/kaiquesilva/Projects/scraps'
+let g:netrw_dirhist_4='/Users/kaiquesilva/Projects/WebApps/crontab/cgi-local'
+let g:netrw_dirhist_5='/Users/kaiquesilva/Projects/WebApps/crontab'
+let g:netrw_dirhist_6='/Users/kaiquesilva/Projects/Sandbox/hello'
